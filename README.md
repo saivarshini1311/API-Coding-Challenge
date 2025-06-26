@@ -1,4 +1,4 @@
-# 📚 Book Management REST API (Spring Boot + MySQL)
+# Book Management REST API 
 
 A simple RESTful API built with Spring Boot that allows users to manage a collection of books — including adding, updating, retrieving, and deleting books using their ISBN. The API uses MySQL as the database and is unit tested using JUnit & Mockito.
 
