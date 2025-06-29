@@ -11,22 +11,18 @@ A simple RESTful API built with Spring Boot that allows users to manage a collec
 - Retrieve a book by ISBN
 - Update existing book details
 - Delete a book by ISBN
-- Unit testing using JUnit and Mockito
-- MySQL database integration
-
+  
 ---
 
 ## ⚙️ Tech Stack
 
-- Java 21
-- Spring Boot 3.x
+- Java 
+- Spring Boot
 - Spring Data JPA
 - MySQL
 - Maven
-- JUnit 5
-- Mockito
+- JUnit 
 - Postman (for API testing)
-
 ---
 
 ## 🗃️ Database Setup
